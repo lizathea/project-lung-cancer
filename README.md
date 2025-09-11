@@ -61,5 +61,8 @@ Main dependencies:
 - The notebook provides visualizations, model performance metrics, and insights into factors affecting lung cancer risk.
 
 ---
+## Reference
+
+Nelson, S. G. (2023). Lung cancer prediction. Kaggle. Retrieved September 11, 2025, from https://www.kaggle.com/code/sandragracenelson/lung-cancer-prediction
 
 **Author:** Liza Thea
